@@ -34,6 +34,6 @@
 - name: Update Todo Config file
   template:
     src: todo.conf
-    dest: /etc/nginx/sites-enabled/todo.config
+    dest: /etc/nginx/sites-enabled/todo.conf
 
 
